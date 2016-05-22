@@ -1,2 +1,7 @@
 # hello-world
-test
+
+Hi world,
+
+kaz here, I like nature and tech.
+
+Thanks,
